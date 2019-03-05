@@ -13,3 +13,7 @@ ruby main.rb
 ```
 
 Программа загружает данные из файлов в папке `data`
+
+## Автор
+
+[Denis Gavrilin](https://github.com/swol1)
